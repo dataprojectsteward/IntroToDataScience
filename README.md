@@ -28,7 +28,7 @@ This project has two main components.
 Key Steps to complete this project:
 
 1) Pick a dataset from recommended datasets or choose own dataset. 
-   - For this project i chose to work on the recommended dataset for AirBNB Boston Data
+   - For this project I decided to work on the recommended dataset AirBNB Boston Data
     
 2) Pose at least three questions related to business or real-world applications of how the data could be used.
     - Q1. What features or variables that will show popular listing?
@@ -59,25 +59,23 @@ Key Steps to complete this project:
 2. BlogPost Boston AirBNB.html - downloaded HTML copy of the code
 3. README.MD - Information about this project
 
-## Credits: 
-
-Code dependencies and Libraries
+## Credits:
 
 Boston AirnBNB Data is publicly available trhough Kaggle: https://www.kaggle.com/airbnb/boston
-
 The dataset include the following:
 1.	Listings - listing information, hosts information, review score. The file contain 3,585 records, 95 columns
 2.	Reviews - Review comments. The file contain 68,275, 6 columns
 3.	Calendars - availability and price for the day. The file contain 1,308,890 records, 4 columns
 
 The project used the following libraries:
-numpy
-pandas
-matplotlib.pyplot
-seaborn
-sklearn
+   - numpy
+   - pandas
+   - matplotlib.pyplot
+   - seaborn
+   - sklearn
 
 References:
+
 https://www.kaggle.com/airbnb/boston https://www.programiz.com/python-programming/docstrings 
 
 https://stackoverflow.com/questions/55937430/python-how-to-remove-sign-andspace#:~:text=You%20can%20use%20str.,the%20%24%20with%20a%20empty%20character. 
