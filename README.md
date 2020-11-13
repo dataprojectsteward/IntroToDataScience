@@ -37,3 +37,4 @@ The dataset is publicly available through Kaggle.  The dataset includes the foll
 ## Results
 
 The results are documented throughout the code and on this blog post. 
+https://medium.com/@lovelina.richter/what-property-features-influence-the-rental-rate-of-homestays-in-boston-ma-212815edc52d?source=friends_link&sk=563edfbb549859f402ec2ff7aae89768
