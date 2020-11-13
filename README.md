@@ -16,8 +16,18 @@ This is the first project requirement of Udacity’s Data Science Nanodegree pro
 
 ## Installation
 
-The code can be executed using Jupyter Notebook. 
-If you don't have Anaconda installed yet, see documentation here: https://numpy.org/install/
+The code is implemented using Python and Jupyter Notebook, and libaries. 
+If you don't them installed yet, here are the links:
+
+https://www.python.org/downloads/
+
+https://jupyter.org/install
+
+https://numpy.org/install/
+
+https://seaborn.pydata.org/installing.html
+
+https://scikit-learn.org/stable/install.html
 
 ## Project Motivation
 
@@ -83,6 +93,8 @@ https://stackoverflow.com/questions/55937430/python-how-to-remove-sign-andspace#
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_numeric.html
 
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+
+https://heartbeat.fritz.ai/random-forest-regression-in-python-using-scikit-learn-9e9b147e2153
 
 ## Results
 
