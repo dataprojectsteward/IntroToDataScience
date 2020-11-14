@@ -17,7 +17,7 @@ This is the first project requirement of Udacity’s Data Science Nanodegree pro
 ## Installation
 
 The code is implemented using Python and Jupyter Notebook, and libaries. 
-If you don't them installed yet, here are the links:
+If you don't have them installed yet, here are the links:
 
 https://www.python.org/downloads/
 
