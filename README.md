@@ -1,10 +1,10 @@
-# Write-A-Data-Science-Blog-Post
+# Intro to Data Science
 
 Udacity Data Science Nanodegree Project
 
 ## Description
 
-This is the first project requirement of Udacity’s Data Science Nanodegree program. For this project, students are asked to create a blog post and Github repository to begin building a data science portfolio. 
+This is the first project requirement of Udacity’s Data Science Nanodegree program. For this project, students are asked to create a blog post and Github repository.. 
 
 ## Table of contents
 
