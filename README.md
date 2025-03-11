@@ -57,11 +57,11 @@ Key Steps to complete this project:
 4) Communicate your business insights:
       - Create a Github repository to share your code and data wrangling/modeling techniques, with a technical audience in mind
       
-        - https://github.com/lovelinarichter/Write-A-Data-Science-Blog-Post
+        - https://github.com/dataprojectsteward/IntroToDataScience/
       
       - Create a blog post to share your questions and insights with a non-technical audience
       
-        - https://medium.com/@lovelina.richter/what-property-features-influence-the-rental-rate-of-homestays-in-boston-ma-212815edc52d?source=friends_link&sk=563edfbb549859f402ec2ff7aae89768
+        - https://data-project-steward.blogspot.com/2025/03/intro-to-data-science-project.html
 
 ## File descriptions
 
